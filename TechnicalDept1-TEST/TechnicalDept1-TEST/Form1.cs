@@ -22,7 +22,7 @@ namespace TechnicalDept1_TEST
             textBox1.TextAlign = HorizontalAlignment.Center;
             textBox1.Text = "Hello World!";
 
-            //김택완 책임
+            //김택완
         }
     }
 }
