@@ -1,0 +1,11 @@
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\bin\Debug\TechnicalDept1-TEST.exe.config
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\bin\Debug\TechnicalDept1-TEST.exe
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\bin\Debug\TechnicalDept1-TEST.pdb
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.csproj.AssemblyReference.cache
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1_TEST.Form1.resources
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1_TEST.Properties.Resources.resources
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.csproj.GenerateResource.cache
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.csproj.CoreCompileInputs.cache
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.exe
+C:\Users\TWKIM\Desktop\DEPT1_TEST\TechnicalDept1-TEST\TechnicalDept1-TEST\obj\Debug\TechnicalDept1-TEST.pdb
